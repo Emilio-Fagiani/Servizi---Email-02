@@ -1,0 +1,13 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: rugdece85@gmail.com
+    password: dbzo txgy okvi syrn
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
